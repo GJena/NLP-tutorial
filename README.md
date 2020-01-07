@@ -32,7 +32,7 @@ If you face problems installing NLTK, take a look at [this](https://www.nltk.org
 
 4. Open a Jupyter notebook with jupyter notebook in your terminal. This opens in your browser at default port 8888.
 
-5. Download the sample notebook ‘Introduction to Data Science - PyConf Hyderabad 2019 test’ and open it in Jupyter. Execute the code by clicking on Cell -> Run Cells. Check out [this video](https://www.youtube.com/watch?v=jZ952vChhuI) for a quick introduction to Jupyter.
+5. Download the sample notebook ‘Introduction to NLP test’ and open it in Jupyter. Execute the code by clicking on Cell -> Run Cells. Check out [this video](https://www.youtube.com/watch?v=jZ952vChhuI) for a quick introduction to Jupyter.
 
 *Option B: Using Google colaboratory on the cloud*
 
@@ -42,7 +42,7 @@ Bypasses installation of packages but needs internet to run code on the cloud.
 
 2. Read the 'Getting started' guide and take a look at the introductory video.
 
-3. Upload the sample notebook ‘Introduction to Data Science - PyConf Hyderabad 2019 test’ in Colab and open it. Execute the 
+3. Download the sample notebook ‘Introduction to NLP test’, upload it in Colab and open it. Execute the 
 code by clicking on Runtime -> Run all.
 
 Feel free to contact me in case of any queries.
